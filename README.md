@@ -15,3 +15,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![React](https://skillicons.dev/icons?i=react)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,mongodb,mysql,git,linux)](https://skillicons.dev)
