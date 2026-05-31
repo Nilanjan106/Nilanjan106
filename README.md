@@ -19,3 +19,12 @@
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,mongodb,mysql,git,linux)](https://skillicons.dev)
+
+Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Nilanjan106&theme=dark)
+
+Profile Views
+![](https://komarev.com/ghpvc/?username=Nilanjan106)
+
+Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourprofile)
